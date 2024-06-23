@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "NeuroQuest"
 title_separator          : "-"
-name                     : &name "Anthony Mensah Name"
+name                     : &name "Anthony Mensah"
 description              : &description "personal description"
 url                      : https://captainjamesmaximus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,12 +21,12 @@ repository               : "CaptainJamesMaximus/captainjamesmaximus.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.HEIC"
   name             : "Anthony James' Mensah"
   pronouns         : "He/His"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Higher School of Economics, Moscow"
+  employer         : "NRU - HSE, Moscow"
   uri              : " www.hse.ru"
   email            : "emensa_1@edu.hse.ru" 
 
