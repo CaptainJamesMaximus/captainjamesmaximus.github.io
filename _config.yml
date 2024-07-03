@@ -21,7 +21,7 @@ repository               : "CaptainJamesMaximus/captainjamesmaximus.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.HEIC"
+  avatar           : "profile.png"
   name             : "Anthony James' Mensah"
   pronouns         : "He/His"  
   bio              : "Master's Student: Cognitive Science and Technologies"
