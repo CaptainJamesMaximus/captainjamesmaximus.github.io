@@ -2,7 +2,10 @@
 main:
 
   - title: "Home" # A snap shot about me
-    url: /teaching/  
+    #url: /teaching/
+    url:
+      - /about/
+      - /about.html  
 
   - title: "Research" # academic research works like original work, reviews, etc
     url: /publications/
