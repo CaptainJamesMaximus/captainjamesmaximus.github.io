@@ -26,6 +26,7 @@ My research interests include:
 - Neuroplasticity: Exploring how the brain adapts and reorganizes itself in response to motor learning and rehabilitation.
 - Motor Disorders: Understanding the neural underpinnings of motor control disorders such as Parkinson's disease, dystonia, and stroke, and developing effective interventions.
 Professional Experience
+
 I have had the privilege of working in esteemed neuroscience labs and collaborating with experienced researchers. These experiences have honed my research skills, provided valuable insights into the scientific process, and strengthened my resolve to contribute to the field of motor control and movement neuroscience.
 
 Get in Touch
