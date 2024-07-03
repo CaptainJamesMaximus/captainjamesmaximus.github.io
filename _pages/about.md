@@ -21,10 +21,10 @@ Research Interests
 ======
 My research interests include:
 
-Neuroimaging Techniques: Utilizing advanced imaging technologies to visualize and understand brain activity related to movement and motor control.
-Motor Control Processes: Investigating the neural basis of movement, coordination, and motor learning in both humans and animal models.
-Neuroplasticity: Exploring how the brain adapts and reorganizes itself in response to motor learning and rehabilitation.
-Motor Disorders: Understanding the neural underpinnings of motor control disorders such as Parkinson's disease, dystonia, and stroke, and developing effective interventions.
+- Neuroimaging Techniques: Utilizing advanced imaging technologies to visualize and understand brain activity related to movement and motor control.
+- Motor Control Processes: Investigating the neural basis of movement, coordination, and motor learning in both humans and animal models.
+- Neuroplasticity: Exploring how the brain adapts and reorganizes itself in response to motor learning and rehabilitation.
+- Motor Disorders: Understanding the neural underpinnings of motor control disorders such as Parkinson's disease, dystonia, and stroke, and developing effective interventions.
 Professional Experience
 I have had the privilege of working in esteemed neuroscience labs and collaborating with experienced researchers. These experiences have honed my research skills, provided valuable insights into the scientific process, and strengthened my resolve to contribute to the field of motor control and movement neuroscience.
 
