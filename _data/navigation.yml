@@ -1,24 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
+
+  - title: "Home" # A snap shot about me
+    url: /teaching/  
+
+  - title: "Research" # academic research works like original work, reviews, etc
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Datascience" # yet to decide content
+    url: /talks/      
     
-  - title: "Portfolio"
+  - title: "Portfolio" # stand-alone data analysis projects
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog Posts" # write up from reviews. mshort, direct and postable. aka talks
     url: /year-archive/
     
-  - title: "CV"
+  - title: "CV" # concise cv plus confs, workshops, poster, seminar, journal presentations 
     url: /cv/
 
-  - title: "Gallery"
+  - title: "Gallery" # pics of hobbies and extra curriculars 
     url: /media/
     
   - title: "Guide"
