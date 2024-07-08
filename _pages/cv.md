@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Cognitive Neuroscience, NRU HSE University, 2025 (Expected)
+* B.S. in Psychology, University of Cape Coast, 2018
+* Certifcate in Business with Mathematics, Eguafo-Abrem Senior High School, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2024 - Date: Motor Control and Cognition Research Intern
+  * Higher School of Economics
+  * Duties includes: Support data collection, data preprocessing, analysis and literature review.
+  * Supervisor: Ast. Prof Matteo Feurra
 
 * Fall 2015: Research Assistant
   * Github University
