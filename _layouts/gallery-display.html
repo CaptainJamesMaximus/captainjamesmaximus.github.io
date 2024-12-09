@@ -36,12 +36,16 @@ layout: default
   /* Ensure the main content stays within its container */
   #main {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: nowrap; /* Ensure sidebar and content stay on the same line */
   }
 
   .gallery {
-    flex: 1;
-    margin-left: 16px; /* Ensure space between the sidebar and gallery */
+    flex: 1; /* Make the gallery take up remaining space */
+    margin-left: 16px;
+    box-sizing: border-box;
+    max-width: calc(100% - 300px); /* Ensure gallery does not overlap the sidebar */
   }
 
   .gallery-grid {
@@ -49,7 +53,7 @@ layout: default
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 16px;
     padding: 16px;
-    box-sizing: border-box; /* Prevent grid from overflowing the container */
+    box-sizing: border-box;
   }
 
   .gallery-item {
@@ -62,11 +66,10 @@ layout: default
 
   .gallery-item img {
   width: auto;
-  height: 100%;
-  max-height: 300px;
+  height: 300px; /* Set fixed height for portrait appearance */
+  object-fit: cover; /* Crop and center images */
   display: block;
   margin: 0 auto;
-  object-fit: cover;
 }
 
   .gallery-item a {
