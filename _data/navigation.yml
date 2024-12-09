@@ -21,7 +21,7 @@ main:
     url: /cv/
 
   - title: "Gallery" # pics of hobbies and extra curriculars 
-    url: /media/
+    url: /gallery/
     
   - title: "Guide"
     url: /markdown/
