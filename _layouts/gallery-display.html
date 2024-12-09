@@ -33,12 +33,25 @@ layout: default
 </div>
 
 <style>
+  /* Ensure the main content stays within its container */
+  #main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .gallery {
+    flex: 1;
+    margin-left: 16px; /* Ensure space between the sidebar and gallery */
+  }
+
   .gallery-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 16px;
     padding: 16px;
+    box-sizing: border-box; /* Prevent grid from overflowing the container */
   }
+
   .gallery-item {
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -46,11 +59,16 @@ layout: default
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
   }
+
   .gallery-item img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
+  width: auto;
+  height: 100%;
+  max-height: 300px;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
   .gallery-item a {
     text-decoration: none;
     color: inherit;
