@@ -24,7 +24,9 @@ author_profile: true
  {% include base_path %}
  
  <div class="gallery-grid">
-   {% for post in site.gallery %}
+  {% for post in site.gallery %}
+    {% include archive-single.html %}
+  {% endfor %}
      <div class="gallery-item">
        <a href="{{ post.url | relative_url }}">
          {{ post.excerpt | markdownify }}
