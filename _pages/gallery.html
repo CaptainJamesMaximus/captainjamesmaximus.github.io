@@ -1,5 +1,5 @@
-<!-- ---
-layout: archive
+---
+layout: gallery-display
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
@@ -11,47 +11,3 @@ author_profile: true
 {% for post in site.gallery %}
   {% include archive-single.html %}
 {% endfor %}
- -->
-
-
- ---
- layout: archive
- title: "Gallery"
- permalink: /gallery/
- author_profile: true
- ---
- 
- {% include base_path %}
- 
- <div class="gallery-grid">
-    {% for post in site.gallery %}
-      {% include archive-single.html %}
-    {% endfor %}
-     <div class="gallery-item">
-       <a href="{{ post.url | relative_url }}">
-         {{ post.excerpt | markdownify }}
-       </a>
-     </div>
-   {% endfor %}
- </div>
- 
- <style>
-   .gallery-grid {
-     display: grid;
-     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-     gap: 16px;
-     padding: 16px;
-   }
-   .gallery-item {
-     border: 1px solid #ddd;
-     border-radius: 8px;
-     overflow: hidden;
-     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-   }
-   .gallery-item img {
-     width: 100%;
-     height: auto;
-     display: block;
-   }
- </style>
- 
