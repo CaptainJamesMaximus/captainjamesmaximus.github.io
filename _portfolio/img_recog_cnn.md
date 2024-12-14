@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning Image Recogition Project category: general"
+title: "Deep Learning Image Recogition Project"
 excerpt: "Employed deep convolutions to recognize CIFAR10 images relevant for computation vision and applicable in decoding neural signals like EMG<br/><img src='/images/mlaids_portfolio_img_recog_01.png'>"
 collection: portfolio
 category: general
