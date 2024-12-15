@@ -5,8 +5,8 @@ main:
     url:  /about/
 
 # remove the hashtags below to ACTIVATE PUBLICATION page for research articles published
- - title: "Research" # academic research works like original work, reviews, etc
-   url: /publications/
+#  - title: "Research" # academic research works like original work, reviews, etc
+#    url: /publications/
 
   - title: "Talks" # yet to decide content
     url: /talks/      

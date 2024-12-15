@@ -9,8 +9,7 @@ author_profile: true
 
 Current Project Test
 ======
-* Motor Imagery
-* Deep Learning MEPs
+* Motor Imgaery 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
