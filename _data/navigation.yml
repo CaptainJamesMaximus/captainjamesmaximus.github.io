@@ -23,5 +23,5 @@ main:
   - title: "Gallery" # pics of hobbies and extra curriculars 
     url: /gallery/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
