@@ -61,12 +61,25 @@ Skills
 
 Training and Certifications
 ======
-- **Google Data Analytics** – Coursera  
-- Google Advanced Data Analytics – Coursera  
-- Mathematics and Statistics for Data Science – Coursera  
-- Programming for Data Science (SQL) – Udacity  
-- Python Programming – Udacity  
-- Microsoft Office Suite – LinkedIn Learning  
+**Computational Science and Technical Skills** 
+
+- **[Calculus for Machine Learning and Data Science](https://coursera.org/share/993241574655d9a096c07b2dbcb05310)** - Coursera (DeepLearning.Ai), 2023
+
+- **[Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/096840848c7bd34a4d4057d573a3f5e4)** - Coursera (DeepLearning.Ai), 2023
+
+- **[Programming for Data Science with Python](www.udacity.com/certificate/e/ea264fa6-3cdb-11ee-9a6a-8b473408f660)** - Udacity Nanodegree Program, 2023
+
+- **[Technical Support Fundamentals](https://coursera.org/share/2010643d1211c0a13832c49bbd436668)** - Coursera (Google), 2021
+
+- **[The Bits and Bytes of Computer Networking](https://coursera.org/share/842b3059f9a190c5e88a0e247ed28a96)** - Coursera (Google), 2021
+
+
+**Foundations for Neuroscience Research** 
+- **[Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://coursera.org/share/b45e13461e2d4b2401a8b4343963b5ef)** - Coursera (The University of Edinburgh)
+
+- **[TCPS 2: Course on Research Ethics](https://drive.google.com/file/d/13_sf3lW3afSKApJHhvvvT2hljp7DRd7I/view?usp=sharing)** - Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans, 2023
+This course provides essential training on ethical guidelines for research involving human participants, focusing on consent, privacy, fairness, and Indigenous research.
+Mastery of TCPS 2 principles. Skills in addressing risks, benefits, and ethical issues. Understanding of REB processes and conflict resolution.
 
 <!-- Publications
 ======
@@ -74,11 +87,11 @@ Training and Certifications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
