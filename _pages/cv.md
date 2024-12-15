@@ -67,7 +67,7 @@ Training and Certifications
 
 - **[Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/096840848c7bd34a4d4057d573a3f5e4)** - Coursera (DeepLearning.Ai), 2023
 
-- **[Programming for Data Science with Python](www.udacity.com/certificate/e/ea264fa6-3cdb-11ee-9a6a-8b473408f660)** - Udacity Nanodegree Program, 2023
+- **[Programming for Data Science with Python](https://www.udacity.com/certificate/e/ea264fa6-3cdb-11ee-9a6a-8b473408f660)** - Udacity Nanodegree Program, 2023
 
 - **[Technical Support Fundamentals](https://coursera.org/share/2010643d1211c0a13832c49bbd436668)** - Coursera (Google), 2021
 
