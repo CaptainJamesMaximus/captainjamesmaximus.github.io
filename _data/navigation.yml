@@ -1,12 +1,12 @@
 # main links links
 main:
 
-  - title: "Home" # A snap shot about me
+  - title: "About" # A snap shot about me
     url:  /about/
 
 # remove the hashtags below to ACTIVATE PUBLICATION page for research articles published
-#  - title: "Research" # academic research works like original work, reviews, etc
-#    url: /publications/
+ - title: "Research" # academic research works like original work, reviews, etc
+   url: /publications/
 
   - title: "Talks" # yet to decide content
     url: /talks/      
@@ -17,7 +17,7 @@ main:
   - title: "Blog Posts" # write up from reviews. mshort, direct and postable. aka talks
     url: /year-archive/
     
-  - title: "CV" # concise cv plus confs, workshops, poster, seminar, journal presentations 
+  - title: "Resume" # concise cv plus confs, workshops, poster, seminar, journal presentations 
     url: /cv/
 
   - title: "Gallery" # pics of hobbies and extra curriculars 
