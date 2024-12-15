@@ -8,8 +8,8 @@ main:
   - title: "Research" # academic research works like original work, reviews, etc
     url: /publications/
 
-  - title: "Talks" # yet to decide content
-    url: /talks/      
+  # - title: "Talks" # yet to decide content maybe talks are just posts 
+  #   url: /talks/      
     
   - title: "Portfolio" # stand-alone data analysis projects
     url: /portfolio/
