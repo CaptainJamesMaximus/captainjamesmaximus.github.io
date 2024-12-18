@@ -8,8 +8,6 @@ tags:
   - category2
 ---
 
-"Loose Lips Sink Ships" in Neuroscience
-
 The phrase "Loose lips sink ships" originated during World War II as a caution against careless talk that could jeopardize critical operations. After 80 years of its usage, the phrase serves as a timely reminder in the era of neurostimulation and neuroplasticity research. Inconsistency in protocols can undermine the progress of our field, hindering reproducibility and delaying the development of life-changing therapies. 
 
 Duly recognizing the contribution of the brain's complexity in these inconsistencies, the lack of considerably best and adequate protocol sharing and methodological replications also has a bite. 
