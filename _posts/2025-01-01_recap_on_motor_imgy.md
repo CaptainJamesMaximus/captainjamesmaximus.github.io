@@ -1,7 +1,8 @@
 ---
 title: 'The State of Motor Imagery Research: Insights at the Dawn of 2025'
 date: 2025-01-01
-permalink: /posts/2025/01/motor_imagery/
+permalink: /posts/2013/08/blog-post-4/
+# permalink: /posts/2025/01/motor_imagery/
 tags:
   - motor imagery
   - review
