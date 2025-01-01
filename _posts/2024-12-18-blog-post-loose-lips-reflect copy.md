@@ -3,13 +3,10 @@ title: 'The State of Motor Imagery Research: Insights at the Dawn of 2025'
 date: 2025-01-01
 permalink: /posts/2013/08/blog-post-2/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - motor imagery
+  - review
+  - '2025'
 ---
-
-Exploring Motor Imagery: A Look at the Science and Implications
-==== 
 
 As we begin 2025, motor imagery—the mental simulation of movement without physical execution—remains a captivating topic in neuroscience. From its role in rehabilitation to applications in brain-computer interfaces, motor imagery bridges the gap between thought and action.
 
