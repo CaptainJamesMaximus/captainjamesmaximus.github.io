@@ -21,4 +21,4 @@ Let's navigate the complexities of the brain together, steering the ship of neur
 
 <img src='/images/blogs/Loose_lips_might_sink_ships.jpg'>
 
-Picture Credit: Wikimedia Commons, 16 Aug 2024, 20:43 UTC. Accessed 18 Dec 2024. https://commons.wikimedia.org/w/index.php?title=File:Loose_lips_might_sink_ships.jpg&oldid=910442441.
+[Picture Credit: Wikimedia Commons, 16 Aug 2024, 20:43 UTC. Accessed 18 Dec 2024.](https://commons.wikimedia.org/w/index.php?title=File:Loose_lips_might_sink_ships.jpg&oldid=910442441)
