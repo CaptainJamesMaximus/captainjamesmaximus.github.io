@@ -1,7 +1,7 @@
 ---
 title: 'The State of Motor Imagery Research: Insights at the Dawn of 2025'
 date: 2025-01-01
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/2025/01/motor-imagery/
 tags:
   - motor imagery
   - review
@@ -17,6 +17,10 @@ As we begin 2025, motor imagery—the mental simulation of movement without phys
 </p>
 
 Research has revealed that imagining movement activates many of the same neural circuits as performing it, particularly in the supplementary motor area, premotor cortex, primary motor cortex, posterior parietal cortex, inferior and superior parietal lobes, basal ganglia, and cerebellum. These insights have propelled advances in neurorehabilitation, enabling stroke survivors and individuals with motor impairments to regain function through mental practice.
+
+Motor Imagery ability is similar in young and older adults and across both males and females, although aged persons may show age-related declines in simulating difficult movements, visuospatial and kinesthetic imagery quality.
+
+Motor Imagery (MI) is shown to have the potential for functional recovery of motor deficit in both lower and upper limbs after stroke. Also, MI has been used in the Graded Motor Imagery (GMI) module of pain management, and is responsible for bolstering the efficacy of mental practice methods for both learning new abilities and practicing proficient motions in sports.
 
 Despite these strides, challenges persist. Conditions such as locked-in syndrome can diminish or entirely prevent the ability to mentally simulate movements, highlighting the complexity of applying motor imagery in clinical settings. Furthermore, accurately measuring motor imagery and accounting for individual differences in its vividness remain key puzzles for researchers.
 
