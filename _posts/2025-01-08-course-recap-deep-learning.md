@@ -20,7 +20,8 @@ This course provided an invaluable processes and concepts to the field of deep l
 - **Automatic Speech Recognition (ASR) & Text-to-Speech (TTS):** Highlighted parallels with auditory cognition and speech processing in the brain.  
 - **Model Interpretability:** Techniques like attention weight visualization and SHAP values ensure computational models align with biological processes, making them useful in neuroscience research.
 
-#### Key Catches for me
+## Key Takeaways
+
 - **Data** for the whole project is as important as the project itself. Data size, preprocessing and standardizing are important to designing a good model. 
 - **Data shape** as it's fed to the network must be monitored as it goes through the layers due to the matrix multiplications with activation and other hidden functions. Not knowing data shape and how it changes at each step is dangerous.
 - **Transfer learning** is just one of the best ideas; Its like student getting the professors bucket of experience without having to spend same decades of learning patterns and connections. The professor just passes it over (transfer) and the student(new model) can just do few final layer training and it is as good as the professor. 
