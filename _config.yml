@@ -27,7 +27,7 @@ author:
   bio              : "Master's Student: Cognitive Science and Technologies"
   location         : "Moscow"
   employer         : "NRU - HSE, Moscow"
-  uri              : "https://www.hse.ru/ma/cogito/ourstudents"
+  # uri              : "https://www.hse.ru/ma/cogito/ourstudents"
   email            : "emensa_1@edu.hse.ru" 
 
   # Academic websites
@@ -44,7 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "CaptainJamesMaximus"
-  kaggle           : # Username  
+  kaggle           : "captainjamesmaximus"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
