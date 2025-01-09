@@ -1,5 +1,5 @@
 ---
-title: 'Course Recap: Predictive Modelling'
+title: 'Course Recap and Reflections: Predictive Modelling'
 date: 2025-01-08
 permalink: /posts/2025/01/predmod/
 tags:

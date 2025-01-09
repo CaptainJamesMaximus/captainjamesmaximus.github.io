@@ -1,5 +1,5 @@
 ---
-title: 'Course Recap: Behavioral Genetics'
+title: 'Course Recap and Reflections: Behavioral Genetics'
 date: 2025-01-08
 permalink: /posts/2025/01/behagenes/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 
 #### **Course Overview:**
-The course I took on **Behavioral Genetics** provided an in-depth understanding of the genetic underpinnings of behavior, with a strong emphasis on molecular genetics, gene-environment interactions and correlations, and the application of genomic information in mental health and education. It integrated various fields of study, including **genetic methodologies**, **polygenic prediction**, **gene-environment interplay**, and the implications of living in the genomic era. The course also covered the challenges and advances in understanding the genetic contributions to behavior, with a focus on complex traits such as intelligence, mental health, and disease susceptibility.
+The course I took on **Behavioral Genetics** provided an in-depth understanding of the genetic underpinnings of behavior, with a strong emphasis on molecular genetics, gene-environment interactions and correlations, and the application of genomic information in mental health and education. It integrated various fields of study, including **genetic methodologies**, **polygenic prediction**, **gene-environment interplay**, and the implications of living in the genomic era. 
 
 #### **Key Notes:**
 
