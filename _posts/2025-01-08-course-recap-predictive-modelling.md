@@ -5,7 +5,7 @@ permalink: /posts/2025/01/predmod/
 tags:
   - course-recap
   - cogsci-masters
-  - '2025'
+  - statistics
 ---
 
 #### **Course Overview:**
@@ -20,10 +20,10 @@ This course provided a comprehensive exploration of predictive modelling techniq
    Techniques like k-nearest neighbours, SVM, and neural networks (reflections on separate [**deep learning**](/posts/2025/01/deeplearning/) course I took) were introduced for categorizing and predicting brain states or behaviours. These tools can decode brain activity and classify cognitive or behavioural outcomes.
 
 3. **Clustering**  
-   Methods like k-means, DBSCAN, and GMM allowed for grouping similar data points without prior labels. Applications include identifying functional brain networks, segmenting brain regions, or grouping neurons with shared response properties.
+   Methods like k-means, DBSCAN, and GMM allowed for grouping similar data points without prior labels. Applications include identifying functional brain networks, segmenting brain regions, or grouping neurons with shared response properties. Using the knee method or Silhoutte Coefficient to compute cluster number for methods like K-mean that requires manual input number of clusters. 
 
 4. **Time Series Analysis**  
-   Stationary time series, autocorrelation, and forecasting models (e.g., AR, MA, SARIMA) were covered, essential for analyzing time-varying neural signals and understanding temporal dependencies in brain activity.
+   Stationary time series, autocorrelation, and forecasting models (e.g., AR, MA, SARIMA) were covered, essential for analyzing time-varying neural signals and understanding temporal dependencies in brain activity. I found that RNNs and Transformers improves this kind of analysis which is particular relevant to neuroimaging data. 
 
 5. **Dynamic Linear Models (DLM) and Kalman Filter**  
    These tools provided frameworks for tracking and estimating the evolution of systems over time, applicable to decoding dynamic brain processes or tracking neural trajectories.
