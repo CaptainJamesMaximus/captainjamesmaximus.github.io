@@ -1,0 +1,48 @@
+---
+title: 'Course Recap: Behavioral Genetics'
+date: 2025-01-08
+permalink: /posts/2025/01/behagenes/
+tags:
+  - course-recap
+  - cogsci-masters
+  - '2025'
+---
+
+Polygenic scores (PGS) or risk score, offer a way to estimate an individual’s risk for various traits and diseases based on genetic variations. While currently not extremely accurate due to polygenicity and an array of gene interactions, these scores have the potential to transform personalized medicine, enabling earlier diagnoses and tailored treatments. As genomic research progresses, the application of predictive scores could also extend to education and insurance, guiding decision-making. However, ethical and social considerations will be crucial as these scores become more integrated into everyday life.
+
+#### **Course Overview:**
+The course I took on **Behavioral Genetics** provided an in-depth understanding of the genetic underpinnings of behavior, with a strong emphasis on molecular genetics, gene-environment interactions and correlations, and the application of genomic information in mental health and education. It integrated various fields of study, including **genetic methodologies**, **polygenic prediction**, **gene-environment interplay**, and the implications of living in the genomic era. The course also covered the challenges and advances in understanding the genetic contributions to behavior, with a focus on complex traits such as intelligence, mental health, and disease susceptibility.
+
+#### **Key Notes:**
+
+1. **Genetic Foundations of Behavior:**
+   - **Molecular Genetics** focused on understanding the methods, challenges, and techniques used to map genetic contributions to behavior. This included genome-wide association studies (GWAS), polygenic scores, and the challenges of **missing heritability**.
+   - **Polygenic Scores**: These scores are used to predict traits or disease risk (polygenic risk scores) based on multiple genetic variants, though they are probabilistic, not deterministic.
+   - **Epistasis** and **dominance** in genetic interactions were highlighted as significant factors in understanding complex traits. **Epistasis**, in particular, was critical in addressing the missing heritability problem by demonstrating that gene-gene interactions often contribute more to trait expression than single genes.
+
+2. **Gene-Environment Interplay:**
+   - The course emphasized **gene-environment correlation (rGE)** and **gene-environment interaction (GxE)**. These concepts are essential for understanding how genetic predispositions and environmental factors interact to shape behavior.
+   - Examples of studies in mental health (e.g., the relationship between genetic risk and environmental factors in **schizophrenia** and **depression**) were discussed. It was important to differentiate between genetic effects on behavior and the role of environmental influences.
+
+3. **Living in the Genomic Era:**
+   - The course examined the implications of genomic research for various sectors, including healthcare, insurance, education, and social ethics. It raised critical questions about privacy, genetic discrimination, and the societal impacts of widespread genetic testing.
+   - Ethical considerations surrounding the use of genomic information were discussed, particularly in predicting disease risk and how this might influence public policy and personal choices.
+
+
+#### **Reflections and Takeaways:**
+
+This course has been particularly interesting and has provided me with a comprehensive understanding of the complexities of genetic contributions to behavior. One of the most significant insights I gained was the importance of **multivariate methods** in genetic research, as behaviors are rarely influenced by a single gene but rather by multiple genes interacting with environmental factors. The course reinforced the idea that behavior is not just a product of **genetic predisposition** but is shaped by a dynamic interaction between genetics and the environment.
+
+I remember Prof. Yulia Kovas having to go over these concepts again because I could'nt just allow her to proceed with class. I was just overwhelmed by how much we presumed these genes or environment effects on trait **BUT** I have to also accept that these variations like **SNPs** each did not contribute very much yet they are big effect when summed. A quick question was how do you punish some offenders if we can accept that some traits are highy genetically influenced than environment? 
+
+Another important takeaway is the concept of **non-shared environment**. This is new information for me because most at times, environment has meant a little different than what the Prof and this course explained. One's subjective and personal experience of situation constitute an environment, and this seems overlooked by many professions and dealing with traits or disorders. This is a kicker for me. 
+
+In conclusion, this course has broadened my perspective on the role of genetics in shaping behavior. The integration of **genomics** with **environmental factors** offers a powerful lens through which to understand human behavior and mental health. However, it also highlights the complexity of this relationship, and the limitations of our current tools in fully unraveling the genetic underpinnings of behavior. As I move forward in my studies, I look forward to exploring how we can use these insights to improve diagnostic and therapeutic strategies for mental health and other complex conditions. And how do analysize genomic data would be a valuable experience and porbably a worthwile skill. 
+
+
+<!-- <img src="/images/blogs/representation of motor imagery.webp" alt="A surreal representation of motor imagery">
+
+<p style="font-size: small; text-align: center;">
+    *Image credit: Generated by OpenAI's DALL·E tool, January 1, 2025.*
+</p> -->
+
