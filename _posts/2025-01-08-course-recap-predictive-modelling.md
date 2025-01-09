@@ -9,7 +9,6 @@ tags:
 ---
 
 #### **Course Overview:**
-
 This course provided a comprehensive exploration of predictive modelling techniques, focusing on their statistical foundations and practical applications. With a strong emphasis on data analysis—including statistics, machine learning, dynamic modelling, and filtering—the course highlighted their relevance for cognitive neuroscience. Hands-on Python exercises enriched the learning experience, solidifying my ability to apply these techniques to real-world datasets.
 
 #### Key Concepts and Applications:
