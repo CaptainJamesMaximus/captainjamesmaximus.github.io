@@ -17,7 +17,7 @@ This course provided a comprehensive exploration of predictive modelling techniq
    Methods like PCA and Factor Analysis were invaluable for simplifying high-dimensional data, such as brain imaging or electrophysiological recordings. These techniques uncover patterns and reduce noise, streamlining data analysis in neuroscience.
 
 2. **Classification**  
-   Techniques like k-nearest neighbours, SVM, and neural networks were introduced for categorizing and predicting brain states or behaviours. These tools can decode brain activity and classify cognitive or behavioural outcomes.
+   Techniques like k-nearest neighbours, SVM, and neural networks ([**check Here**](about.md) for reflection on separate deep learning course I took) were introduced for categorizing and predicting brain states or behaviours. These tools can decode brain activity and classify cognitive or behavioural outcomes.
 
 3. **Clustering**  
    Methods like k-means, DBSCAN, and GMM allowed for grouping similar data points without prior labels. Applications include identifying functional brain networks, segmenting brain regions, or grouping neurons with shared response properties.
@@ -40,4 +40,4 @@ This course underscored the statistical and computational underpinnings of predi
 
 I will hope to post some of the cool projects I did in this course in my portfolio page. 
 
-[Course link Predictive Modelling](https://www.hse.ru/en/edu/courses/922873288)
+[Course link: Predictive Modelling](https://www.hse.ru/en/edu/courses/922873288)
