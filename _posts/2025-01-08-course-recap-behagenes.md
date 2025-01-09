@@ -8,8 +8,6 @@ tags:
   - '2025'
 ---
 
-Polygenic scores (PGS) or risk score, offer a way to estimate an individual’s risk for various traits and diseases based on genetic variations. While currently not extremely accurate due to polygenicity and an array of gene interactions, these scores have the potential to transform personalized medicine, enabling earlier diagnoses and tailored treatments. As genomic research progresses, the application of predictive scores could also extend to education and insurance, guiding decision-making. However, ethical and social considerations will be crucial as these scores become more integrated into everyday life.
-
 #### **Course Overview:**
 The course I took on **Behavioral Genetics** provided an in-depth understanding of the genetic underpinnings of behavior, with a strong emphasis on molecular genetics, gene-environment interactions and correlations, and the application of genomic information in mental health and education. It integrated various fields of study, including **genetic methodologies**, **polygenic prediction**, **gene-environment interplay**, and the implications of living in the genomic era. The course also covered the challenges and advances in understanding the genetic contributions to behavior, with a focus on complex traits such as intelligence, mental health, and disease susceptibility.
 
