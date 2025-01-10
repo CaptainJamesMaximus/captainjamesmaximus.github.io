@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://captainjamesmaximus.github.io/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: image-alignment-300x200.jpg
