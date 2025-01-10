@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /non-menu-page/
+    url: /markdown/
 
   - title: "About" # A snap shot about me
     url:  /about/
