@@ -6,7 +6,7 @@ date: 2025-01-10T10:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: foo-bar-identity-th.jpg
+  overlay_image: socials/fusions.webp
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -15,11 +15,11 @@ excerpt: "I am a cognitive neuroscientist bridging motor control research and co
 intro: 
   - excerpt: 'A journey into neuroscience driven by a deep curiosity, life-long learning, overcoming boundaries and commitment to advancing our knowledge of the brain in both healthy and diseased states.'
 feature_row:
-  - image_path: image-alignment-300x200.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+  - image_path: socials/myself_tim_mish.jpg
+    alt: "picture of anthony and two friends"
+    title: "Wiring together"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: image-alignment-300x200.jpg
+  - image_path: socials/seminar-presentation.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -27,7 +27,7 @@ feature_row:
     url: "https://captainjamesmaximus.github.io/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: image-alignment-300x200.jpg
+  - image_path: socials/mri.webp
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
