@@ -24,9 +24,9 @@ Research Experiences
 - Conducted motor imagery experiments with cobot robotic arm TMS for over 50 participants.  
 - Performed data preprocessing and analysis in Python.  
 
-**Primary Researcher**  
-*[Motor Control Group](https://www.hse.ru/en/cdm-centre/mmcontrol/), Institute for Cognitive Neuroscience, Moscow*. 
-Supervisor - [Assistant Prof. Matteo Feurra](https://www.hse.ru/en/org/persons/134445359).
+**Researcher**  
+*[Motor Control Group](https://www.hse.ru/en/cdm-centre/mmcontrol/), Institute for Cognitive Neuroscience, Moscow*.   
+Supervisor - [Assistant Prof. Matteo Feurra](https://www.hse.ru/en/org/persons/134445359).  
 **December 2023 – Present**  
 - Conducted literature reviews and thesis write-up on neuromodulation in motor imagery tasks.  
 - Designed and executed neuromodulation experiments with electrical stimulation and TMS-EMG recordings.  
