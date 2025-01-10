@@ -18,7 +18,7 @@ feature_row:
   - image_path: socials/myself_tim_mish.jpg
     alt: "picture of anthony and two friends"
     title: "Wiring together"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Chasing the dream has been worthy adventure but doing it in foreign land is not always very comfortable. In most cases, good people are met along the way and they are 'Samaritans' indeed."
   - image_path: socials/seminar-presentation.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
