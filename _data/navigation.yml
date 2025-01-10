@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /markdown/
 
   - title: "About" # A snap shot about me
     url:  /about/
@@ -23,5 +25,4 @@ main:
   - title: "Gallery" # pics of hobbies and extra curriculars 
     url: /gallery/
     
-  - title: "Home"
-    url: /markdown/
+
