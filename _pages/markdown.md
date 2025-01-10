@@ -21,15 +21,15 @@ feature_row:
     excerpt: "Chasing the dream has been worthy adventure but doing it in foreign land is not always very comfortable. In most cases, good people are met along the way and they are 'Samaritans' indeed."
   - image_path: socials/seminar-presentation.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Anthony giving a presentation at a seminar"
+    title: "Seminar Presentation"
+    excerpt: "The ability to communicate neuroscience findings to society is as important as the research themselves and presentations are a vital part."
     url: "https://captainjamesmaximus.github.io/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: socials/mri.webp
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: socials/mri.png
+    title: "Complex neuroimaging data and Deep Learning"
+    excerpt: "How increased computing power is revealing insightful information through artificial neural network algorithms. Translating these insights into clinical applications is relevant for healthy ageing"
 # feature_row2:
 #   - image_path: images/image-alignment-300x200.jpg
 #     alt: "placeholder image 2"
