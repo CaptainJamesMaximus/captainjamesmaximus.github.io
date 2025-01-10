@@ -13,3 +13,6 @@ redirect_from:
 ---
  
 <img src='/images/lab/tms_lab.JPG'> 
+
+"Exploring Movement, Mind, and Machines"
+"I am a cognitive neuroscientist bridging motor control research and computational innovation."
