@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /
 title: "Welcome to My Page"
 author_profile: true
 layout: splash

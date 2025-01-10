@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "The Journey of Aspiring Ghanaian Neuroscientist"
 author_profile: true
 redirect_from: 
