@@ -1,7 +1,8 @@
 ---
 permalink: /markdown/
 title: "Welcome to My Page"
-author_profile: false
+author_profile: true
+layout: splash
 redirect_from: 
   - /md/
   - /markdown.html
