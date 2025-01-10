@@ -2,9 +2,9 @@
 permalink: /about/
 title: "The Journey of Aspiring Ghanaian Neuroscientist"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 Welcome to my professional website! I am Anthony Mensah, a dedicated and passionate cognitive neuroscience master's student with a profound interest in understanding the intricate workings of the human brain, particularly in the realms of movement and motor control. My journey in neuroscience has been driven by a deep curiosity about these processes and a commitment to advancing our knowledge of how they operate in both healthy and diseased states.
