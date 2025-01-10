@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* M.S. in Cognitive Neuroscience, NRU HSE University, 2025 (Expected)
-* B.S. in Psychology, University of Cape Coast, 2018
-* Certifcate in Business with Mathematics, Eguafo-Abrem Senior High School, 2013
+* M.S. in Cognitive Neuroscience, [NRU Higher School of Economics University](https://www.hse.ru/en/ma/cogito/) - Russia, 2025 (Expected)
+* B.S. in Psychology, [University of Cape Coast](https://ucc.edu.gh/) - Ghana, 2018
+* Certifcate in Business with Mathematics, Eguafo-Abrem Senior High School - Ghana, 2013
 
 Research Experiences
 ======
 **Internship**  
-*Centre for Cognition and Decision Making (CDM), Higher School of Economics, Moscow*  
-**April 2024 – Present**  
+*[Centre for Cognition and Decision Making (CDM)](https://www.hse.ru/en/cdm-centre/), Higher School of Economics, Moscow*  
+**April 2024 – Dec 2024**  
 - Reviewed scholarly publications on magnetic and electrical stimulation and electromyographical monitoring of muscle activity.  
 - Conducted motor imagery experiments with cobot robotic arm TMS for over 50 participants.  
 - Performed data preprocessing and analysis in Python.  
 
 **Primary Researcher**  
-*Motor Control Group, Institute for Cognitive Neuroscience, Moscow*  
+*[Motor Control Group](https://www.hse.ru/en/cdm-centre/mmcontrol/), Institute for Cognitive Neuroscience, Moscow* 
+Supervisor - [Assistant Prof. Matteo Feurra](https://www.hse.ru/en/org/persons/134445359)
 **December 2023 – Present**  
 - Conducted literature reviews and thesis write-up on neuromodulation in motor imagery tasks.  
 - Designed and executed neuromodulation experiments with electrical stimulation and TMS-EMG recordings.  
@@ -33,7 +34,7 @@ Research Experiences
 - Developed a deep learning CNN-LSTM model for motor-evoked potential classification.  
 
 **Internship**  
-*Physiology Research Laboratory, School of Medical Sciences, University of Cape Coast*  
+*[Physiology Research Laboratory](https://sites.google.com/view/physiologyresearchlab/home), School of Medical Sciences, University of Cape Coast*  
 **March 2022 – August 2022**  
 - Self-studied neuroscience concepts and explored molecular experiment methodologies.  
 - Conducted a market survey to support projects on GMO testing in Ghanaian staples.  

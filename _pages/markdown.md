@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**CaptSoht**](https://unsplash.com)"
 excerpt: "I am a cognitive neuroscientist bridging motor control research and computational innovation."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'A journey into neuroscience driven by a deep curiosity, life-long learning, overcoming boundaries and commitment to advancing our knowledge of the brain in both healthy and diseased states.'
 feature_row:
   - image_path: image-alignment-300x200.jpg
     alt: "placeholder image 1"
