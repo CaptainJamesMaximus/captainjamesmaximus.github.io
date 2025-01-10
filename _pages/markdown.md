@@ -6,7 +6,7 @@ date: 2025-01-10T10:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/lab/tms_lab.JPG
+  overlay_image: C:\Users\antho\Downloads\1_Projects\captainjamesmaximus.github.io\images\lab\tms_lab.JPG
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
