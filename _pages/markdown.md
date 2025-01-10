@@ -55,36 +55,16 @@ feature_row:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 ---
-<!-- {% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row %} -->
+{% include feature_row %}
+
 <!-- 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %} -->
-
-<!-- ---
-permalink: /
-title: "Welcome to My Page"
-author_profile: true
-layout: splash
-# header:
-#   image: "images\profile.png" # Path to your hero image
-#   caption: "Exploring Movement, Mind, and Machines"
-#   excerpt: "I am a cognitive neuroscientist bridging motor control research and computational innovation."
-redirect_from: 
-  - /md/
-  - /markdown.html
---- -->
-
-
-
-
-<!-- <img src='/images/lab/tms_lab.JPG'> 
-
-"Exploring Movement, Mind, and Machines" -->
 
 
 
