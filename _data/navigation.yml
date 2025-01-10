@@ -6,7 +6,6 @@ main:
   - title: "About" # A snap shot about me
     url:  /about/
 
-# remove the hashtags below to ACTIVATE PUBLICATION page for research articles published
   - title: "Research" # academic research works like original work, reviews, etc
     url: /publications/
 
