@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /markdown/
+    url: /
 
   - title: "About" # A snap shot about me
     url:  /about/
