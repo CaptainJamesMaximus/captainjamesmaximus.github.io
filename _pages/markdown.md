@@ -14,22 +14,22 @@ header:
 excerpt: "I am a cognitive neuroscientist bridging motor control research and computational innovation."
 intro: 
   - excerpt: 'A journey into neuroscience driven by a deep curiosity, life-long learning, overcoming boundaries and commitment to advancing our knowledge of the brain in both healthy and diseased states.'
-# feature_row:
-#   - image_path: image-alignment-300x200.jpg
-#     alt: "placeholder image 1"
-#     title: "Placeholder 1"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#   - image_path: image-alignment-300x200.jpg
-#     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-#     alt: "placeholder image 2"
-#     title: "Placeholder 2"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#     url: "#test-link"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
-#   - image_path: image-alignment-300x200.jpg
-#     title: "Placeholder 3"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row:
+  - image_path: image-alignment-300x200.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: image-alignment-300x200.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: image-alignment-300x200.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
 #   - image_path: images/image-alignment-300x200.jpg
 #     alt: "placeholder image 2"
