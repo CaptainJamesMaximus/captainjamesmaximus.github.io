@@ -1,5 +1,5 @@
 ---
-title: "Participant Head Registraion"
+title: "Lab End of Year Party"
 excerpt: "Motor Control Group End-of-year Get-together; 2024<br/><img src='/images/socials/lab_outing_dec.jpg'>"
 collection: socials
 date: 2024-12-28T10:00:00-04:00
