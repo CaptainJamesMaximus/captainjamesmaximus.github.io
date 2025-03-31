@@ -7,7 +7,7 @@ date: 2025-02-25
 venue: 'Brain Stimulation'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://captainjamesmaximus.github.io/Differential Effects of Kinesthetic and Visual Motor Imagery Perspectives on Corticospinal Excitability in Healthy Adults.pdf' 
-citation: 'Perevoznyuk, G., Ragimova, A., Batov, A., Pleskovskaya, A., Mensah, A., Ponomareva, D., & Feurra, M. (2025). Differential effects of kinesthetic and visual motor imagery perspectives on corticospinal excitability in healthy adults. Brain Stimulation, 18(1), 366. https://doi.org/10.1016/j.brs.2024.12.457'
+citation: 'Perevoznyuk, G., Ragimova, A., Batov, A., Pleskovskaya, A., Mensah, A., Ponomareva, D., & Feurra, M. (2025). Differential effects of kinesthetic and visual motor imagery perspectives on corticospinal excitability in healthy adults. Brain Stimulation, 18(1), 366. [(https://doi.org/10.1016/j.brs.2024.12.457)](https://doi.org/10.1016/j.brs.2024.12.457)'
 ---
 
 Thirteen healthy adults (mean age 23, with 7 males) participated. They received single-pulse transcranial magnetic stimulation (TMS) over the left motor cortex while electromyography recorded activity from five right arm muscles, focusing on the biceps brachii. The study design involved two baseline measures (pre- and post-task) and four randomized tasks: a metronome-paced baseline and three motor imagery (MI) tasks—kinesthetic (KI) and visual imagery from first- (V1) and third-person (V3) perspectives. During MI tasks, participants executed a biceps flexion with a dumbbell in sync with a metronome before imagining the movement according to the assigned imagery type.
