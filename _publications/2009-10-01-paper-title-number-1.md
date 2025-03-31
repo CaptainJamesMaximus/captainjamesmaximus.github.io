@@ -1,13 +1,15 @@
 ---
-title: "Somatosensory cortex transcranial direct current stimulation in visual and kinesthetic motor imagery"
+title: "Differential Effects of Kinesthetic and Visual Motor Imagery Perspectives on Corticospinal Excitability in Healthy Adults"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-02-25-paper-title-number-1
+excerpt: 'This study reveals that kinesthetic and third-person visual motor imagery significantly enhance corticospinal excitability, offering novel insights for rehabilitation and motor learning strategies.'
+date: 2025-02-25
+venue: 'Brain Stimulation'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://captainjamesmaximus.github.io/Differential Effects of Kinesthetic and Visual Motor Imagery Perspectives on Corticospinal Excitability in Healthy Adults.pdf' 
+citation: 'Perevoznyuk, G., Ragimova, A., Batov, A., Pleskovskaya, A., Mensah, A., Ponomareva, D., & Feurra, M. (2025). Differential effects of kinesthetic and visual motor imagery perspectives on corticospinal excitability in healthy adults. Brain Stimulation, 18(1), 366. https://doi.org/10.1016/j.brs.2024.12.457'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Thirteen healthy adults (mean age 23, with 7 males) participated. They received single-pulse transcranial magnetic stimulation (TMS) over the left motor cortex while electromyography recorded activity from five right arm muscles, focusing on the biceps brachii. The study design involved two baseline measures (pre- and post-task) and four randomized tasks: a metronome-paced baseline and three motor imagery (MI) tasks—kinesthetic (KI) and visual imagery from first- (V1) and third-person (V3) perspectives. During MI tasks, participants executed a biceps flexion with a dumbbell in sync with a metronome before imagining the movement according to the assigned imagery type.
+
+This study demonstrates that both kinesthetic and visual motor imagery—especially when viewed from a third-person perspective—significantly enhance corticospinal excitability in the biceps. The results underscore the importance of imagery perspective in modulating motor system activity, with potential implications for optimizing rehabilitation and motor learning interventions.

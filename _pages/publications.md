@@ -28,7 +28,6 @@ This project applies deep learning techniques to classify and predict motor-evok
 Publications
 ======
 
-##### Updating Soon **
 
 
 
