@@ -7,7 +7,7 @@ date: 2025-02-25
 venue: 'Brain Stimulation'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://captainjamesmaximus.github.io/Differential Effects of Kinesthetic and Visual Motor Imagery Perspectives on Corticospinal Excitability in Healthy Adults.pdf' 
-citation: 'Perevoznyuk, G., Ragimova, A., Batov, A., Pleskovskaya, A., Mensah, A., Ponomareva, D., & Feurra, M. (2025). Differential effects of kinesthetic and visual motor imagery perspectives on corticospinal excitability in healthy adults. Brain Stimulation, 18(1), 366.' [(https://doi.org/10.1016/j.brs.2024.12.457)](https://doi.org/10.1016/j.brs.2024.12.457)
+citation: 'Perevoznyuk, G., Ragimova, A., Batov, A., Pleskovskaya, A., Mensah, A., Ponomareva, D., & Feurra, M. (2025). Differential effects of kinesthetic and visual motor imagery perspectives on corticospinal excitability in healthy adults. Brain Stimulation, 18(1), 366. [https://doi.org/10.1016/j.brs.2024.12.457](https://doi.org/10.1016/j.brs.2024.12.457).'
 
 ---
 
