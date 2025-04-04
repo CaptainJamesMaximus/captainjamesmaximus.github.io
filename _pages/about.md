@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "The Journey of an Aspiring Ghanaian Neuroscientist"
+title: "The Journey of an Aspiring [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Neuroscientist"
 author_profile: true
 # redirect_from: 
 #   - /about/
@@ -9,23 +9,23 @@ author_profile: true
 
 About Me
 ======
-I am currently pursuing my master's degree in cognitive neuroscience, where I have developed a strong foundation in neuroimaging techniques, neuropsychology, computational sciences, and research design and execution. My academic journey has equipped me with the skills and knowledge necessary to explore the mysteries of the brain and contribute to groundbreaking research in this field.
+I am a cognitive neuroscience researcher pursuing my master's degree in cognitive neuroscience, where I have developed a strong foundation in neuroimaging techniques, neuropsychology, computational sciences, and research design and execution. My academic journey has equipped me with the skills and knowledge necessary to explore the mysteries of the brain and contribute to groundbreaking research in this field.
 
 My Vision
 ======
-My vision is to become a leading researcher in the field of movement and cognition, contributing to the scientific community through innovative research and meaningful discoveries. I aim to uncover the neural mechanisms underlying motor functions and translate these findings into practical applications that can improve motor performance and aid in the treatment of motor disorders. These experiences directly is to inspire other young people from some corners of the world who also dream beyond their social, financial and cultural limitations.
+My long-term vision is to contribute to translational neuroscience, bridging fundamental research and clinical applications. I seek to explore the neural mechanisms underlying cognition and movement, with a focus on conditions such as Alzheimer’s disease, stroke, and traumatic brain injury (TBI). By integrating neurotechnology, neurostimulation, and multimodal neuroimaging experimentation, I aim to develop innovative interventions that enhance cognitive and motor recovery. Beyond research, I am passionate about inspiring and helping young scientists, particularly those from underrepresented backgrounds, to pursue careers in neuroscience.
 
 Research Interests
 ======
-My research interests include:
+- Neuromodulation & Brain Stimulation: Investigating how neuromodulatory technologies such as non-invasive transcranial stimulations (magnetic, electric, light) approaches influences memory, learning, motor control and other cognitive domains affected in neurological disorders.
 
-- Neuroimaging Techniques: Utilizing advanced imaging technologies to visualize and understand brain activity related to movement and motor control.
-- Motor Control Processes: Investigating the neural basis of movement, coordination, and motor learning, ageing related movement and cognitive disorders like Alzheimer's diseases.
-- Neuroplasticity: Exploring how the brain adapts and reorganizes itself in response to motor learning and rehabilitation.
-- Computational applications: Employ mathematical and computational approaches to understanding experimental neural data and modelling processes and functions of the brain.
+- Neuroimaging & Computational Science: Applying neuromotnitoring such fMRI, M/EEG, and machine learning to analyze brain activity and develop predictive models of neuroplasticity and recovery.
+
+- Neurorehabilitation & Translational Neuroscience: Developing interventions that enhance brain function, neurofeedback, and modeling for for neuroprotectiion, rehabilitation and healthy aging.
+
 
 Professional Experience
+=====
+I have had the privilege of working in esteemed neuroscience labs and collaborating with experienced researchers from Ghana, Russia and other online opportunities. These experiences have honed my research skills, provided valuable insights into the scientific process, and inspired my resolve to contribute to advancing our understanding of neurotech for helping people.
 
-I have had the privilege of working in esteemed neuroscience labs and collaborating with experienced researchers from Ghana, Russia and other online opportunities. These experiences have honed my research skills, provided valuable insights into the scientific process, and strengthened my resolve to contribute to the field of cognitive and movement neuroscience.
-
-Thank you for visiting my website. Together, let's explore the fascinating world of neuroscience and make a difference in the understanding of the human brain.
+Thank you for visiting my website. Together, let's explore the fascinating world of neuroscience and expand our understanding of the human brain—including perspectives from diverse populations, such as those in [Cape Coast](https://visitghana.com/attractions/cape-coast-castle/), Ghana, and beyond.
