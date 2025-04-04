@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "The Journey of an Aspiring [Ghanaian](https://en.wikipedia.org/wiki/Ghana) Neuroscientist"
+title: "The Journey of an Aspiring Ghanaian Neuroscientist"
 author_profile: true
 # redirect_from: 
 #   - /about/
@@ -28,4 +28,4 @@ Professional Experience
 =====
 I have had the privilege of working in esteemed neuroscience labs and collaborating with experienced researchers from Ghana, Russia and other online opportunities. These experiences have honed my research skills, provided valuable insights into the scientific process, and inspired my resolve to contribute to advancing our understanding of neurotech for helping people.
 
-Thank you for visiting my website. Together, let's explore the fascinating world of neuroscience and expand our understanding of the human brain—including perspectives from diverse populations, such as those in [Cape Coast](https://visitghana.com/attractions/cape-coast-castle/), Ghana, and beyond.
+Thank you for visiting my website. Together, let's explore the fascinating world of neuroscience and expand our understanding of the human brain—including perspectives from diverse populations, such as those in [Cape Coast](https://visitghana.com/attractions/cape-coast-castle/), [Ghana](https://en.wikipedia.org/wiki/Ghana), and beyond.
