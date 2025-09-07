@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Cognitive Neuroscience, [NRU Higher School of Economics University](https://www.hse.ru/en/ma/cogito/) - Russia, 2025 (Expected)
-* B.S. in Psychology, [University of Cape Coast](https://ucc.edu.gh/) - Ghana, 2018
+* MSc. in Cognitive Science and Technologies: From Neuron to Cognition, [NRU Higher School of Economics University](https://www.hse.ru/en/ma/cogito/) - Russia, 2025
+* BSc. in Psychology, [University of Cape Coast](https://ucc.edu.gh/) - Ghana, 2018
 * Certifcate in Business with Mathematics, Eguafo-Abrem Senior High School - Ghana, 2013
 
 Research Experiences
