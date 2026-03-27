@@ -24,20 +24,20 @@ author:
   avatar           : "profile.png"
   name             : "Anthony James' Mensah"
   pronouns         : "He/His"  
-  bio              : "Master's Student: Cognitive Science and Technologies"
-  location         : "Moscow"
-  employer         : "NRU - HSE, Moscow"
+  bio              : "Junior Researcher: Neurostimulation and Imaging of the human motor system in learning and disease."
+  location         : "Accra, Ghana"
+  employer         : "Self-employed"
   # uri              : "https://www.hse.ru/ma/cogito/ourstudents"
-  email            : "emensa_1@edu.hse.ru" 
+  email            : "anthony.mensah1@stu.ucc.edu.gh" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FN7gt_sAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5547-8181"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Anthony-Mensah-3?ev=prf_overview"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
